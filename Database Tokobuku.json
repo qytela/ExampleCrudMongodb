@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5ccd6449977cda22009b996a"},"judul":"Fundamental Python","sinopsis":"Belajar Fundamental Python","pengarang":"Fansa","harga":{"$numberInt":"90000"},"id_buku":{"$numberInt":"987321"},"__v":{"$numberInt":"0"}}
